@@ -12,7 +12,7 @@
   "devDependencies": {
     "csvtojson": "^2.0.10",
     "json2csv": "^4.5.4",
-    "underscore": "^1.9.2"
+    "underscore": "^1.12.1"
   },
   "dependencies": {}
 }
